@@ -503,9 +503,7 @@ researchnet-x/
 │   ├── 📄 sample_data.sql          # Pre-populated sample data
 │   └── 📄 triggers.sql             # Advanced analytical queries
 ├── 📁 docs/
-│   ├── 📄 README.md                # This documentation
 │   ├── 📄 API_Documentation.md     # Detailed API docs
-│   ├── 📄 LICENSE                  # MIT License
 │   ├── 📄 Database_Schema.pdf      # ER Diagram
 │   └── 📁 screenshots/             # Application screenshots
 │       ├── 📄 dashboard.png
@@ -513,7 +511,9 @@ researchnet-x/
 │       ├── 📄 researchers.png
 │       ├── 📄 projects.png
 │       ├── 📄 publications.png
-│       └── 📄 analytics.png                  
+│       └── 📄 analytics.png
+├── 📄 LICENSE                      # MIT License
+├── 📄 README.md                    # This documentation
 └── 📄 .gitignore                   # Git ignore file
 ```
 
