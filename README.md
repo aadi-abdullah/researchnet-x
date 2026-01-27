@@ -586,7 +586,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or contributions:
 - **GitHub Issues**: [Create an issue](https://github.com/aadi-abdullah/researchnet-x/issues)
-- **Email**: [Project maintainer email]
+- **Email**: abdullahsahfique2019@gmail.com
 - **Documentation**: Check `/docs` folder for detailed guides
 
 ---
